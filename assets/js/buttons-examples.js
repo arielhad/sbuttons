@@ -279,6 +279,11 @@ $(document).ready(function () {
           classes: "pulse-btn",
         },
         {
+          type: "shrink",
+          label: "Shrink",
+          classes: "shrink-btn",
+        },
+        {
           type: "ripple",
           label: "Ripple",
           classes: "ripple-btn",
